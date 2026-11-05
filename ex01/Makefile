@@ -8,7 +8,7 @@ SRCS = ${SRC_DIR}/main.cpp
 
 OBJS = $(SRCS:${SRC_DIR}/%.cpp=${OBJ_DIR}/%.o)
 
-NAME = Whatever
+NAME = Iter
 
 all: ${NAME}
 
